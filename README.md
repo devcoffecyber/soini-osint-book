@@ -1,5 +1,6 @@
 # soini-osint-book
 Copia gratuita
+https://otaviogregorio.gumroad.com/l/osint
 # 🔰 PARTE I — FUNDAMENTOS DO OSINT
 
 > **Objetivo da Parte I**  
